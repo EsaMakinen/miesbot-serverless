@@ -1,0 +1,23 @@
+{
+  "name": "miesbot-serverless",
+  "version": "1.0.0",
+  "description": "Search for finnish man in Twitter and tweet it.",
+  "main": "handler.js",
+  "dependencies": {
+    "cheerio": "^0.22.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EsaMakinen/miesbot-serverless.git"
+  },
+  "author": "Esa Mäkinen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EsaMakinen/miesbot-serverless/issues"
+  },
+  "homepage": "https://github.com/EsaMakinen/miesbot-serverless#readme"
+}
